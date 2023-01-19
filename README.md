@@ -1,5 +1,5 @@
 # Global-Suicide-Rates
-Analysis of global suicide rates over the years 1986 - 2016 using Python. This project is part of the Data Analytics Course by CareerFoundry.
+Analysis of global suicide rates over the years 1985 - 2016 using Python. This project is part of the Data Analytics Course by CareerFoundry.
 
 ## Overview
 The dataset chosen for this project provides information on suicide rates on a global level. As per the World Health Organization's (WHO) website, more than than 700 000 people die by suicide every year. Furthermore, for each suicide, there are more than 20 suicide attempts.
