@@ -8,7 +8,7 @@ The dataset chosen for this project provides information on suicide rates on a g
 To develop insights for suicide prevention. Suicides and suicide attempts have a ripple effect that impacts on families, friends, colleagues, communities and societies. Suicides are preventable. Much can be done to prevent suicide at individual, community and national levels. 
 
 ## Key Questions
-In this analysis we will explore questions around the reasons and key factors behind global suicide rates. In addition to this, we will also observe geographical areas where suicide rate is the highest / lowest and demographic factors of which age group, gender, generatio is suicide most common in, in order to develop insights to for suicide prevention. The following questions have been posed to analyze the dataset: 
+In this analysis, we've explored the reasons behind global suicide rates. In addition to this, observations around geographical areas where suicide rate is the highest/lowest and demographic factors such as age group, gender, generation in which suicide is most common have been also been done based on the following key questions:
 * What patterns can we see with regards to total number of suicides over the years?
 * Are suicides rates climbing or falling in various countries? What do suicides by country over the years look like?
 * What are the ten countries with highest and lowest suicide rates?
@@ -18,7 +18,7 @@ In this analysis we will explore questions around the reasons and key factors be
 ## Data Collection
 * The data for this project is an open source data downloaded from [Kaggle](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv).  
 
-This is a compiled dataset pulled from four other datasets linked by time and place which are as follows:
+As this is a complied dataset, it has been pulled from four other datasets linked by time and place which are as follows:
 
 * United Nations Development Program. (2018). Human development index (HDI). Retrieved from [UNDP](http://hdr.undp.org/en/indicators/137506)
 * World Bank. (2018). World development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from [World Bank](http://databank.worldbank.org/data/source/world-development-indicators#)
@@ -26,8 +26,8 @@ This is a compiled dataset pulled from four other datasets linked by time and pl
 * World Health Organization. (2018). Suicide prevention. Retrieved from [WHO](http://www.who.int/mental_health/suicide-prevention/en/)
 
 ## Data Analysis
-* Final analysis was carried using Python and Excel
+* Final analysis has been done using Python and Excel
 
 ## Final Deliverables and Results 
-* [Technical results were prepared in Python](add link to Python folder here 
+* [Technical results prepared in Python](add link to Python folder here 
 * Visualizations created using [Tableau](add link to storyboard here
