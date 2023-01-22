@@ -29,5 +29,5 @@ As this is a complied dataset, it has been pulled from four other datasets linke
 * Final analysis has been done using Python and Excel
 
 ## Final Deliverables and Results 
-* [Technical analysis prepared in Python]([add link to Python folder here](https://github.com/ayshahassan/Global-Suicide-Rates/tree/main/03%20Scripts) 
+* [Technical analysis prepared in Python](https://github.com/ayshahassan/Global-Suicide-Rates/tree/main/03%20Scripts) 
 * Visualizations created using [Tableau](add link to storyboard here
