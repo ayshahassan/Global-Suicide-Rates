@@ -5,7 +5,7 @@ Analysis of global suicide rates over the years 1985 - 2016 using Python. This p
 The dataset chosen for this project provides information on suicide rates on a global level. As per the World Health Organization's (WHO) website, more than than 700 000 people die by suicide every year. Furthermore, for each suicide, there are more than 20 suicide attempts.
 
 ## Objective 
-To develop insights for suicide prevention. Suicides and suicide attempts have a ripple effect that impacts on families, friends, colleagues, communities and societies. Suicides are preventable. Much can be done to prevent suicide at individual, community and national levels. 
+To develop insights for suicide prevention. Suicides and suicide attempts have a ripple effect that impacts families, friends, colleagues, communities and societies. Suicides are preventable. Much can be done to prevent suicide at individual, community and national levels. 
 
 ## Key Questions
 In this analysis, we've explored the reasons behind global suicide rates. In addition to this, observations around geographical areas where suicide rate is the highest/lowest and demographic factors such as age group, gender, generation in which suicide is most common have been also been done based on the following key questions:
