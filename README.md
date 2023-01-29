@@ -30,4 +30,4 @@ As this is a complied dataset, it has been pulled from four other datasets linke
 
 ## Final Deliverables and Results 
 * [Technical analysis prepared in Python](https://github.com/ayshahassan/Global-Suicide-Rates/tree/main/03%20Scripts) 
-* Visualizations created using [Tableau](add link to storyboard here
+* Visualizations created using [Tableau](https://public.tableau.com/app/profile/aysha.kalam/viz/Project6_16745151276640/Story#guest=n&2)
