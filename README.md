@@ -1,4 +1,4 @@
-# Global-Suicide-Rates
+# Global-Suicide-Rates (1985 - 2016)
 Analysis of global suicide rates over the years 1985 - 2016 using Python. This project is part of the Data Analytics Course by CareerFoundry.
 
 ## Overview
