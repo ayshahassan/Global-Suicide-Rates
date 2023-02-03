@@ -26,7 +26,7 @@ As this is a complied dataset, it has been pulled from four other datasets linke
 * World Health Organization. (2018). Suicide prevention. Retrieved from [WHO](http://www.who.int/mental_health/suicide-prevention/en/).
 
 ## Data Analysis
-* Final analysis has been done using Python and Excel
+* Final analysis has been done using Python, Excel and Tableau
 
 ## Final Deliverables and Results 
 * [Technical analysis prepared in Python](https://github.com/ayshahassan/Global-Suicide-Rates/tree/main/03%20Scripts) 
